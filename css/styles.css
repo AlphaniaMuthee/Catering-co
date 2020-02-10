@@ -1,0 +1,17 @@
+h1 {color: Purple;
+  font-weight: bold;
+}
+body {
+  background-color: Lightgray;
+}
+body {
+  background-image: url("/home/alphania/Downloads/rice.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-weight: normal;
+  background-blend-mode: overlay;
+}
+.ima {
+  float: right;
+}
