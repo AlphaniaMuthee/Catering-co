@@ -20,3 +20,6 @@ h2 {
   color: purple;
   font-weight: bold;
 }
+.jumbotron {
+  background-color: inherit;
+}
